@@ -5,7 +5,7 @@
 Title: Predicting Financial Outcome <br/>
 Prepared by: Zaid M Masri <br/>
 Date: Friday, July 17, 2020 <br/>
-Version: 0.01 <br/>
+Version: 0.13 <br/>
 Contact: zaidmasri2@gmail.com <br/>
 
 
