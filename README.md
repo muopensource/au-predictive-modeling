@@ -1,12 +1,8 @@
-# README.md
-**Aunalytics - Digital Transformation Through Human Intelligence**
+**Predicting Financial Outcome**
 
-
-Title: Predicting Financial Outcome <br/>
 Prepared by: Zaid M Masri <br/>
 Date: Monday, July 20, 2020 <br/>
 Version: 0.13 <br/>
-Contact: zaidmasri2@gmail.com <br/>
 
 
 1. Audience:
